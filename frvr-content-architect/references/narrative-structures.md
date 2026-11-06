@@ -26,10 +26,10 @@ Complaint → petition → trust → praise. It maps to C9. Best for pain that's
 The world says (the maxxing answer, stated fairly) → why it can't deliver (the root it misses) → the kingdom says → the protocol from finished identity → anchor. It maps to `frvr-maxxing-studio`'s spine (Hook → Flip → Turn → Tool → Trend vs Truth → Anchor → CTA).
 
 ## 5. The Ladder
-Where you are → why the big plan fails → Floor → Standard → Stretch → the if-then plan → grace clause → CTA. Best for Discipleship posts and Blueprints. It must have a Descent behind it, either in this post or earlier in the series (linked).
+Where you are → why the big plan fails → Floor → Standard → Stretch → the if-then plan → returning in grace → next step. Best for Discipleship posts and Blueprints. It must have a Descent behind it, either in this post or earlier in the series (linked).
 
-## 6. Testimony (before → turn → after)
-Before (honest, specific) → the moment (what he saw) → the truth that met him → what he did (protocol) → what changed (real numbers, misses included) → Christ gets the credit. It maps to C5 and C16, for FRVR AZ.
+## 6. Testimony (what God did)
+Before (honest, specific) → what God showed him → what God did → how he responded in obedience (the practice, received as grace) → what God is still doing (real numbers, misses included) → "come and see" (John 4:29; Mark 5:19). God is the subject of the verbs. It maps to C5 and C16, for FRVR AZ.
 
 ## 7. Creation → Fall → Redemption → Restoration (the master arc)
 Design (how you were made: the science of thriving, Genesis 1–2) → Distortion (what broke) → Deliverance (Christ) → Discipleship (formation). Use it as a single carousel for big topics (sleep, work, sex, rest), and as the shape of every series and season.

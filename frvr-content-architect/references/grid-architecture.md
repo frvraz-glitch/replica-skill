@@ -6,7 +6,7 @@
 VISION · MISSION (fixed)                The FRVR Temple: Christ at the centre, a man formed forever
 └─ YEAR (one lap of the Temple)         all four faces, about one season each
    └─ SEASON (6–12 weeks)               one face or one root family, with a season name and look
-      └─ SERIES (3–9 posts)             one theme, Root to Fruit complete, ends in one offer
+      └─ SERIES (3–9 posts)             one theme, Root to Fruit complete, ends in one next step
          └─ POST (carousel, reel, card) one act or layer, linked back and forward
             └─ SLIDE / BEAT             one idea
 ```
@@ -39,13 +39,13 @@ Inside each season, the series climb the four acts: **Design → Distortion → 
 | 3 | Distortion: Lie + Root | Split (C4) or Argument (C2) | Well |
 | 4 | Deliverance: Truth, the turn | Verse card set (C14), Gospel Object (C12), talking head | AZ / Well |
 | 5 | Discipleship: Frame + Framework + Protocol | Maxxing / Blueprint / 101 | Well |
-| 6 | Discipleship: Fruit, lived | Documented journey (C16) or Story (C5) → offer | AZ |
+| 6 | Discipleship: Fruit, lived | Documented journey (C16) or Story (C5) → next step | AZ |
 
 **Short 3-post series (one grid row):** Mirror (Fruit → Root) · Turn (Truth + Frame) · Tool (Protocol + Fruit).
 
 **Long 9-post series (three rows):** Row 1 = Design + Distortion. Row 2 = the root and the turn. Row 3 = formation and fruit.
 
-Every series has a name, a series mark, numbering on every cover ("03 / 06"), one signature look across all its posts, and one offer at the end (Temple Audit, a Blueprint, the Unbroken tracker, Temple 101).
+Every series has a name, a series mark, numbering on every cover ("03 / 06"), one signature look across all its posts, and one next step at the end. Most series end in Scripture, a local church, a brother or prayer. Only some end in a resource (Temple Audit, a Blueprint, Temple 101), and a resource is always a gift that serves the man, never the funnel.
 
 ## 4. The profile grid
 
@@ -106,7 +106,7 @@ Adjust the cadence to Aziel's capacity. If the week is short, keep the triptych 
 - **Story Highlights as the library:** one Highlight per series, plus "Start Here" and "The Temple".
 - **Pinned comment** on each post linking to the previous and next part.
 - **Cross-account bridges:** Well teaches the framework; AZ shows Aziel living it the same week and points across.
-- **The offer completes the series.** Each lead magnet is the series' Fruit in a form people can keep, and its first page names the root the series uncovered.
+- **The next step completes the series.** Where a resource fits, it is the series' Fruit in a form people can keep, and its first page names the root the series uncovered and points to Christ.
 
 ## 8. Idea Bank (no stray posts)
 

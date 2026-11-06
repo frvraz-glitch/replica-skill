@@ -35,7 +35,7 @@ Run each rung through the four faces. A surface problem in one face often has it
 | Frame | "So instead of seeing X as…, see it as…" | Flip the world's frame (the upside-down kingdom) and fit on one line |
 | Framework | A named model: the Temple, Floor/Standard/Stretch, Flee and Pursue, the lament arc, a 2×2 | Be simple enough to draw on a whiteboard in 10 seconds |
 | Formation | The practice and the protocol | Pass the SMART builder (`protocol-builder.md`) and include an if-then plan |
-| Fruit | "In 7/30/49 days, you'll know it's working when…" | Give a measure, a review date and a grace clause (Unbroken: "Miss the target? Hit the floor. Never miss twice.") |
+| Fruit | "In 7/30/49 days, you'll know it's working when…" | Give a measure, a review date and the way back in grace (1 John 1:9; Lamentations 3:22–23). "Never miss twice" is a practical rhythm under grace, never a condition of it |
 
 ## 4. Worked example: "I can't stay consistent"
 

@@ -102,9 +102,8 @@ def main(argv):
             W(f"series '{s}': no design post (how it's meant to work)")
         if not ({"lie", "root"} & lays):
             W(f"series '{s}': the Descent never names a lie or root")
-        offers = {r.get("offer") for r in rs if r.get("offer")}
-        if not offers:
-            W(f"series '{s}': no offer at the end")
+        if not rs[-1].get("cta") and not rs[-1].get("offer"):
+            W(f"series '{s}': no next step at the end (Scripture, church, a brother, prayer or a resource)")
         declared = {as_int(r.get("of")) for r in rs if as_int(r.get("of"))}
         if len(declared) > 1:
             E(f"series '{s}': inconsistent 'of' values {sorted(declared)}")

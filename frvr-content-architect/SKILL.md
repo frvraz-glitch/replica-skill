@@ -48,7 +48,7 @@ Every piece moves in two directions. Full method, the why-ladder and a worked ex
 | 2. **Frame** | A new way of seeing it: a frame of mind, a reframe, the upside-down kingdom move | SOUL · Renewed |
 | 3. **Framework** | A model he can hold: the Temple, a ladder, a cycle, a matrix | SOUL / any face |
 | 4. **Formation** | The practice and the protocol: Floor / Standard / Stretch, if-then plans, a rhythm | SOMA / SOCIAL / any face |
-| 5. **Fruit** | A SMART goal and how he'll know it's working, with a measure and a review date | The face where the symptom showed |
+| 5. **Fruit** | The fruit of the Spirit growing where the symptom showed (Galatians 5:22–23). The fruit is His work, not our score. A SMART measure is only a stewardship tool for noticing it, with a review date | The face where the symptom showed |
 
 The Descent goes down to the heart. The Ascent comes back up to the hands. A piece that only describes the problem is a lament with no turn. A piece that only gives a protocol is maxxing with a verse on it. FRVR does both, in that order.
 
@@ -122,7 +122,7 @@ Protocol:        <SMART: floor / standard / stretch, if-then, measure, review da
 Evidence:        <claims to verify in frvr-evidence-library>
 Links:           ← <previous thread ID: what this builds on> · → <next: what it sets up>
 Grid:            row <n>, position <L|C|R>, look <look>
-CTA:             <one keyword · one offer>
+Next step:       <one: Scripture to read, a church or brother to go to, a prayer, or (sometimes) a resource>
 Mirror line:     "<the line that makes him think 'how did you know?'>"
 Points to Him:   <how this piece glorifies God and makes Christ the hero; the last word is His>
 ```
