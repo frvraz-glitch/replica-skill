@@ -4,6 +4,8 @@
 > "For we do not proclaim ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus' sake." (2 Corinthians 4:5)
 > References here are paraphrased or close to the text. Fetch the BSB before setting any of them on a design.
 
+**The FRVR charter** (Aziel, 6 Nov 2026, verbatim): "may everything FRVR be for the glory of god, with full integrity truth and love, in a heart and mind of service and giving value, embedded with wisdom compassion authenticity grounded humility responsibility zeal passion, from fragmentation to integration, reinforcing and reminding of sonship identity, savior focus over self focus, on the narrow path that leads to life, deeply embedded and cross-checked with whole bible in context and verified interpretation and original author intent of each verse and chapter and book, with highest quality research support on all health claims, concepts, and protocols"
+
 This is the first gate every FRVR AZ and FRVR Well decision passes through: themes, topics, wording, scripts, carousels, captions, design, brand, priorities and the use of time. It sits above the Architect Gate, the Bible and Literature Checks and every studio's Quality Gate. A piece that is beautiful, viral and accurate but fails here doesn't ship.
 
 ## 1. Why: the humility of God
