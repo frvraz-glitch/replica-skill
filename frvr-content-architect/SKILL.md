@@ -15,6 +15,7 @@ It decides *what* to say, *why it goes here* and *how the argument runs*. The st
 
 ## 0. Before architecting
 
+00. **The Narrow Path comes first:** `references/narrow-path.md`. Everything is for the glory of God. We know Him and make Him known, pointing past ourselves as the Spirit points to the Son (John 16:14; John 3:30; 2 Corinthians 4:5). Every theme, word, design and priority passes its ten questions before anything else. Christ is the hero, the work is done by the Spirit and not by striving, the tone is humble and steady, and the brand is held with open hands.
 0. **Read the founding thesis first:** `references/integration-thesis.md`. FRVR's central message is **fragmented → whole: not balance, integration**. Christ is the one in whom all things hold together (Colossians 1:17), and he integrates every part of a young man of God, inside (spirit, mind, emotions, body, social life) and outside (relationships, work, calling, assignments). Every season, series and post serves this thesis and names the integration pair it works on (the `frame` field in the Thread Map). The thesis file has the Split / Collapse / Integrated rule, the Cross of Integration lens, the pair atlas, the theological care notes and Season 0.
 1. **Load the brand model.** Memory and `frvr-maxxing-studio/references/framework.md` hold the Temple: Christ at the centre, four faces (SPIRIT · Received, SOUL · Renewed, SOMA · Stewarded, SOCIAL · Belonging), twenty F-facets, five pillars, the named practices (Life Reset 7x7, Unbroken, The Cave, The Code, Alignment Audit, Temple 101). It also holds the account split: FRVR AZ is testimony (about 70%) and FRVR Well is protocols and frameworks (about 30%).
 2. **Open the Thread Map** (section 5). If none exists yet, start one from `assets/thread-map-template.csv`. Read the last 12 rows before you plan anything new.
@@ -123,6 +124,7 @@ Links:           ← <previous thread ID: what this builds on> · → <next: wha
 Grid:            row <n>, position <L|C|R>, look <look>
 CTA:             <one keyword · one offer>
 Mirror line:     "<the line that makes him think 'how did you know?'>"
+Points to Him:   <how this piece glorifies God and makes Christ the hero; the last word is His>
 ```
 
 ## 5. The Thread Map
@@ -141,10 +143,11 @@ It reports orphans (no series or no links), series that don't complete Root to F
 
 ## 6. The Architect Gate
 
-Score each item 1–5 and fix anything under 4 before the brief goes to a studio. Run this on top of the studio's Quality Gate and the Bible and Literature Checks (`frvr-design-studio/references/checks.md`), not instead of them.
+The Glory test is not traded off against craft. A piece that fails it doesn't ship, however well it scores elsewhere. Score each item 1–5 and fix anything under 4 before the brief goes to a studio. Run this on top of the studio's Quality Gate and the Bible and Literature Checks (`frvr-design-studio/references/checks.md`), not instead of them.
 
 | Test | 5 looks like |
 |---|---|
+| **Glory** | It passes the Narrow Path's ten questions. Christ is the hero and gets the last word. Nothing in it is done to be seen by men |
 | **Mirror** | The opening names his experience better than he could. He thinks "how did you know?" |
 | **Depth** | The why-ladder reached a lie and a root, not just a second symptom |
 | **Turn** | Christ is the turn, not the add-on. Truth comes before technique, and identity is received, not earned |
