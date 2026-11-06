@@ -15,6 +15,7 @@ It decides *what* to say, *why it goes here* and *how the argument runs*. The st
 
 ## 0. Before architecting
 
+0. **Read the founding thesis first:** `references/integration-thesis.md`. FRVR's central message is **fragmented → whole: not balance, integration**. Christ is the one in whom all things hold together (Colossians 1:17), and he integrates every part of a young man of God, inside (spirit, mind, emotions, body, social life) and outside (relationships, work, calling, assignments). Every season, series and post serves this thesis and names the integration pair it works on (the `frame` field in the Thread Map). The thesis file has the Split / Collapse / Integrated rule, the Cross of Integration lens, the pair atlas, the theological care notes and Season 0.
 1. **Load the brand model.** Memory and `frvr-maxxing-studio/references/framework.md` hold the Temple: Christ at the centre, four faces (SPIRIT · Received, SOUL · Renewed, SOMA · Stewarded, SOCIAL · Belonging), twenty F-facets, five pillars, the named practices (Life Reset 7x7, Unbroken, The Cave, The Code, Alignment Audit, Temple 101). It also holds the account split: FRVR AZ is testimony (about 70%) and FRVR Well is protocols and frameworks (about 30%).
 2. **Open the Thread Map** (section 5). If none exists yet, start one from `assets/thread-map-template.csv`. Read the last 12 rows before you plan anything new.
 3. **Read the heart map** (`references/heart-map.md`) for the follower: what he says, does, feels, fears, believes and longs for.
