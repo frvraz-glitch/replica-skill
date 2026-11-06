@@ -58,7 +58,7 @@ The words themselves carry the message:
 | Frame | You don't need balance. You need a centre. When Christ is the centre, every area becomes an expression of one life, not a rival for your time |
 | Framework | **Forever Formation:** the Temple (four faces around Christ) seen through the Cross of Integration (§4) |
 | Formation | Daily: one centre (Word + one prayer for an undivided heart). Weekly: the integration review. Seasonal: one pair worked on deliberately |
-| Fruit | In 49 days (Life Reset 7x7): the gap between who he is in each room narrows, measured by the weekly Integration Audit score |
+| Fruit | In 49 days (Life Reset 7x7): the gap between who he is in each room narrows, measured by the weekly Alignment Audit score |
 
 ## 4. The Cross of Integration (proposed lens on the Temple)
 
@@ -160,8 +160,8 @@ Each pair is a carousel, a reel or a week's theme. For each one, show the **spli
 
 ## 7. How it shapes the content
 
-- **Season 0, "Whole"** (the launch or relaunch): the Genesis 12 grid is rebuilt around fragmentation and integration. Plan: `assets/season-0-whole.csv`. The pinned row: **Not Balance. Integration.** (the manifesto) · **The Cross of Integration** (the framework) · **Start Here: the Integration Audit** (the lead magnet).
-- **The Integration Audit** (proposed lead magnet, after the C11 scorecard pattern): one statement per pair, scored as Split / Collapse / Integrated, and grouped by face. His lowest pair becomes his first 49-day focus. It is a reflection, not a diagnosis.
+- **Season 0, "Whole"** (the launch or relaunch; it runs inside the 7x7 frame, the one season frame decided 6 Nov 2026, on Instagram plus YouTube, three grid posts a week per account): the Genesis 12 grid is rebuilt around fragmentation and integration. Plan: `assets/season-0-whole.csv`. The pinned row: **Not Balance. Integration.** (the manifesto) · **The Cross of Integration** (the framework) · **Start Here: the Alignment Audit** (the lead magnet).
+- **The Integration pairs live inside the Alignment Audit** (decided 6 Nov 2026, D8: one free invitation). Originally proposed as a separate Integration Audit, after the C11 scorecard pattern: one statement per pair, scored as Split / Collapse / Integrated, and grouped by face. His lowest pair becomes his first 49-day focus. It is a reflection, not a diagnosis.
 - **The Lion & Lamb series** (the ongoing signature format, one pair per post). Carousel C17, Both/And:
   1. Cover: "Lion or lamb? Both."
   2. The split life (mirror)

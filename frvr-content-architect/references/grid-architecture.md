@@ -70,7 +70,7 @@ A new visitor decides in seconds. The pinned row is the front door. Keep it to t
 2. **The Temple**: the framework in one carousel. Four faces, Christ at the centre, where to start.
 3. **Start Here**: the current lead magnet (Temple Audit), with a comment keyword.
 
-**Current plan:** Season 0 "Whole" (`assets/season-0-whole.csv`, from `integration-thesis.md` §7) replaces the generic table below. Its pinned row is Not Balance. Integration. · The Cross of Integration · Start Here: the Integration Audit. Its four rows are One Centre (SPIRIT), Undivided Heart (SOUL), Rhythm (SOMA) and Lion and Lamb (SOCIAL). The table below stays as the generic pattern.
+**Current plan:** Season 0 "Whole" (`assets/season-0-whole.csv`, from `integration-thesis.md` §7) replaces the generic table below. Its pinned row is Not Balance. Integration. · The Cross of Integration · Start Here: the Alignment Audit (with the Integration pairs). Its four rows are One Centre (SPIRIT), Undivided Heart (SOUL), Rhythm (SOMA) and Lion and Lamb (SOCIAL). The table below stays as the generic pattern.
 
 **Genesis 12: a proposed launch sequence** (or a relaunch) for a fresh grid. Four rows, each a Mirror · Turn · Tool triptych, each row one face:
 
